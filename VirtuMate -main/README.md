@@ -1,4 +1,4 @@
-# 🌸 Kaori 🌸
+#  Kaori 
 
 Kaori is an interactive Multi Agentic friend designed to deliver a charming and engaging conversational experience. She adapts her personality and mood based on past interactions,also capiable to using multiple tools and services to create dynamic, personalized experience.
 
@@ -14,9 +14,9 @@ Kaori is an interactive Multi Agentic friend designed to deliver a charming and 
 
 ## Features
 
-- **Conversational Agent:** Kaori is designed with a playful, human-like personality that adapts its mood based on predefined emotional states.
-- **Permanent momory:** Uses Pinecone for storing and retrieving context from past interactions.
-- **Location base exprience:** Automates tasks such as updating profile pictures, sending personalized greetings, messaging upon location changes, and weather upates daily.
+- **Conversational Agent:** Kaori features a lively, adaptive personality that shifts its tone and mood based on ongoing interactions and emotional context.
+- **Permanent momory:** Leverages Pinecone to retain and access past conversations, ensuring continuity and relevance in dialogue.
+- **Location base exprience:**  Automates actions like changing profile pictures, sending location-triggered messages, delivering personalized greetings, and providing daily weather updates.
 - **Tool Integrations:** Connects with Spotify, Google calender, Tavily search, and more for to enhance user experience and engagement..
 - **Discord Bot:** Operates on Discord to provide real-time conversation and interaction.
 
